@@ -1,4 +1,5 @@
 Project Summary: Adventure Sales Report
+
 Objective
 The primary objective of this project was to analyze the sales performance of Adventure Works, identifying key trends, patterns, and insights to inform strategic business decisions. The analysis aimed to provide a comprehensive understanding of sales data, customer behavior, and product performance.
 
