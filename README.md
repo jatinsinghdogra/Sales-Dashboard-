@@ -6,9 +6,11 @@ The primary objective of this project was to analyze the sales performance of Ad
 Approach
 Data Collection and Preparation:
 
-Imported sales data from various sources into Power BI.
-Conducted data cleaning and transformation to ensure data integrity and accuracy.
-Created relationships between different tables to form a cohesive data model.
+*Imported sales data from various sources into Power BI.
+
+*Conducted data cleaning and transformation to ensure data integrity and accuracy.
+
+*Created relationships between different tables to form a cohesive data model.
 
 Data Analysis:
 
@@ -20,8 +22,10 @@ Data Analysis:
 
 Key Performance Indicators (KPIs):
 
-Defined and tracked KPIs such as total sales, average order value, and customer acquisition cost.
-Used DAX (Data Analysis Expressions) to calculate metrics and create measures.
+*Defined and tracked KPIs such as total sales, average order value, and customer acquisition cost.
+
+*Used DAX (Data Analysis Expressions) to calculate metrics and create measures.
+
 Visualization:
 
 Designed intuitive and interactive dashboards to present insights clearly.
