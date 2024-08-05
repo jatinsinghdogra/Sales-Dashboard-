@@ -9,11 +9,12 @@ Data Collection and Preparation:
 Imported sales data from various sources into Power BI.
 Conducted data cleaning and transformation to ensure data integrity and accuracy.
 Created relationships between different tables to form a cohesive data model.
+
 Data Analysis:
 
-Utilized Power BI to develop interactive dashboards and visualizations.
-Performed descriptive analysis to summarize sales performance, customer demographics, and product popularity.
-Conducted trend analysis to identify sales patterns over time.
+*Utilized Power BI to develop interactive dashboards and visualizations.
+*Performed descriptive analysis to summarize sales performance, customer demographics, and product popularity.
+*Conducted trend analysis to identify sales patterns over time.
 Key Performance Indicators (KPIs):
 
 Defined and tracked KPIs such as total sales, average order value, and customer acquisition cost.
